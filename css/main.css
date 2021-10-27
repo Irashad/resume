@@ -5228,7 +5228,7 @@ Created using IcoMoon - icomoon.io
   width: 100%;
   position: relative;
   overflow: hidden;
-  background-repeat: no-repeat;
+  background-repeat: round;
     background-size: 1600px 700px;}
   .cc-contact-information .cc-contact {
     padding: 8% 0 8% 20%; }
