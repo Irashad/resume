@@ -2249,7 +2249,7 @@ p {
   color: #9A9A9A; }
 
 .text-primary {
-  color: #000000 !important; }
+  color: #6699ff !important; }
 
 .text-info {
   color: #2CA8FF !important; }
@@ -2572,7 +2572,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #000000 !important; }
+  background-color: #6699ff !important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
@@ -4112,7 +4112,7 @@ Created using IcoMoon - icomoon.io
       /* For Safari 5.1 to 6.0 */
       /* For Opera 11.1 to 12.0 */
       /* For Firefox 3.6 to 15 */
-      background: linear-gradient(#000000 0%, #000 80%);
+      background: linear-gradient(#6699ff 0%, #000 80%);
       /* Standard syntax (must be last) */
       opacity: 0.76;
       filter: alpha(opacity=76);
@@ -4595,7 +4595,7 @@ Created using IcoMoon - icomoon.io
       /* For Safari 5.1 to 6.0 */
       /* For Opera 11.1 to 12.0 */
       /* For Firefox 3.6 to 15 */
-      background: linear-gradient(#000000 0%, #000 80%);
+      background: linear-gradient(#6699ff 0%, #000 80%);
       /* Standard syntax (must be last) */
       opacity: 0.76;
       filter: alpha(opacity=76);
