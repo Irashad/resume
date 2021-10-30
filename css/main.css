@@ -2697,6 +2697,7 @@ body {
     filter: alpha(opacity=100);
     visibility: visible;
     transform: translate3d(0, 0px, 0); }
+
   .navbar .dropdown.show .dropdown-menu {
     transform: translate3d(0, 7px, 0); }
 
